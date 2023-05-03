@@ -4,7 +4,7 @@
         "truck": 1,
         "motorcycle": 2,
         "bicycle": 3,
-	"others":9
+	    "others":9
     },
     "classification": {
         "vehicle.citroen.c3": 0,
